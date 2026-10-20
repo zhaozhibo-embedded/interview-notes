@@ -1,0 +1,26 @@
+# 构建产物
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大文件（波形/截图请放 assets 并压缩）
+*.zip
+*.7z
+*.rar
